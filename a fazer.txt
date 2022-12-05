@@ -1,0 +1,15 @@
+https://callstack.github.io/react-native-paper/snackbar.html
+
+alert
+
+
+data table
+
+https://callstack.github.io/react-native-paper/data-table.html
+
+
+
+
+
+elements:
+https://reactnativeelements.com/docs/components/image
