@@ -21,8 +21,8 @@ var unidades = [];
 export default function LoginScreen(props) {
   let navigationOptions = {};
 
-  const [email, setEmail] = useState('maria@gmail.com');
-  const [senha, setSenha] = useState('mudar123');
+  const [email, setEmail] = useState('');
+  const [senha, setSenha] = useState('');
   const [disabled, setDisabled] = useState(false);
   const [result, setResult] = useState({});
 
