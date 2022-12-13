@@ -6,7 +6,7 @@ export default api = axios.create({
   baseURL: baseUrl,
   headers: {
     empresa: '1', //getData('empresa')
-    token: '$2a$10$rraq5MYalcG021m6N3N6TuR8jmLuUCDvcI36O3PkQ8RvGgdOV5eIu', //getData('token'),
+    token: getData('token'),
   },
 });
 
